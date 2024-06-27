@@ -1,0 +1,11 @@
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\bin\Debug\net8.0\Catalog.deps.json
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\bin\Debug\net8.0\Catalog.dll
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\bin\Debug\net8.0\Catalog.pdb
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfoInputs.cache
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfo.cs
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\Catalog.csproj.CoreCompileInputs.cache
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\Catalog.dll
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\refint\Catalog.dll
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\Catalog.pdb
+E:\IACSD\MS.NET\LabPractice\Ecommerce\Catalog\obj\Debug\net8.0\ref\Catalog.dll

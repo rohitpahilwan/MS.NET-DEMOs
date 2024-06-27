@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Student/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Student.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student/1.0.0": {
+      "type": "project",
+      "path": "../StudentClass/Student.csproj",
+      "msbuildProject": "../StudentClass/Student.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Student >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rohit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\IACSD\\MS.NET\\LabPractice\\Students\\Tester\\Tester.csproj",
+      "projectName": "Tester",
+      "projectPath": "E:\\IACSD\\MS.NET\\LabPractice\\Students\\Tester\\Tester.csproj",
+      "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
+      "outputPath": "E:\\IACSD\\MS.NET\\LabPractice\\Students\\Tester\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\IACSD\\MS.NET\\LabPractice\\Students\\StudentClass\\Student.csproj": {
+              "projectPath": "E:\\IACSD\\MS.NET\\LabPractice\\Students\\StudentClass\\Student.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
