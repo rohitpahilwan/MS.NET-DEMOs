@@ -1,0 +1,11 @@
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\bin\Debug\net8.0\GDIlib.deps.json
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\bin\Debug\net8.0\GDIlib.dll
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\bin\Debug\net8.0\GDIlib.pdb
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\GDIlib.GeneratedMSBuildEditorConfig.editorconfig
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\GDIlib.AssemblyInfoInputs.cache
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\GDIlib.AssemblyInfo.cs
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\GDIlib.csproj.CoreCompileInputs.cache
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\GDIlib.dll
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\refint\GDIlib.dll
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\GDIlib.pdb
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\GDIlib\obj\Debug\net8.0\ref\GDIlib.dll

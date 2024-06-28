@@ -1,0 +1,11 @@
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\bin\Debug\net8.0\CRM.deps.json
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\bin\Debug\net8.0\CRM.dll
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\bin\Debug\net8.0\CRM.pdb
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\CRM.AssemblyInfoInputs.cache
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\CRM.AssemblyInfo.cs
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\CRM.csproj.CoreCompileInputs.cache
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\CRM.dll
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\refint\CRM.dll
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\CRM.pdb
+E:\IACSD\MS.NET\LabPractice\GraphicsSolution\CRM\obj\Debug\net8.0\ref\CRM.dll
