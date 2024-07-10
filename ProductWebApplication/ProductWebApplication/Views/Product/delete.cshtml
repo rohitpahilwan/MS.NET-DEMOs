@@ -1,0 +1,15 @@
+﻿@using ProductWebApplication.Models;
+@{
+    @model Product;
+}
+<h1>Delete</h1>
+
+<form method="post">
+<div class="a1">
+    <label>Enter Id : </label>
+    <input type="number" asp-for="Id" >
+</div>
+<div class="a1">
+        <button class="btn btn-danger" type="submit">delete</button>
+</div>
+</form>

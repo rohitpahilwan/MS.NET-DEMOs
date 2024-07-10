@@ -1,0 +1,43 @@
+﻿@using ProductWebApplication.Models;
+@{
+    @model Product;
+}
+<h1>Edit</h1>
+
+<form method="post">
+<div class="a">
+<label>Id</label>
+<input type="number" asp-for="Id"  readonly>
+</div>
+
+<div class="a">
+<label>Title</label>
+<input type="text" asp-for="Title" >
+</div>
+
+<div class="a">
+<label>Description</label>
+<input type="text" asp-for="Description" >
+</div>
+
+<div class="a">
+<label>UnitPrice</label>
+<input type="number" asp-for="UnitPrice" >
+</div>
+
+<div class="a">
+<label>img</label>
+<input type="text" asp-for="img_url" >
+</div>
+
+<div class="a">
+        <label>quantity</label>
+<input type="number" asp-for="quantity" >
+</div>
+
+<div class="a">
+        <button class="btn btn-warning" type="submit">Save</button>
+</div>
+
+
+</form>

@@ -1,0 +1,18 @@
+﻿<h1>Sorted List</h1>
+<hr />
+<table border="5px" cellpadding="10">
+@{
+        List<Product> products = (List<Product>)ViewData["Product"];
+    foreach(Product p in products )
+    {
+        <tr>
+        <td>@p.Id</td>
+        <td>@p.Title</td>
+        <td>@p.Description</td>
+        <td>@p.UnitPrice</td>
+        <td>@p.img_url</td>
+        <td>@p.quantity</td>
+        </tr>
+    }
+}
+</table>

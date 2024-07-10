@@ -1,0 +1,25 @@
+﻿<h1>Product List</h1>
+<hr />
+<table cellpadding="20" border="5px">
+@{
+    List<Product> products = (List<Product>)ViewData["Product"];
+    foreach(Product p in products)
+    {
+        <tr>
+        <td>@p.Id</td>
+        <td>@p.Title</td>
+        <td>@p.Description</td>
+        <td>@p.UnitPrice</td>
+        <td>@p.img_url</td>
+        <td>@p.quantity</td>
+                <td><a class="btn btn-warning" asp-controller="Product" asp-action="Edit" asp-route-id="@p.Id">Edit</a></td>
+                <td><a class="btn btn-danger" asp-controller="Product" asp-action="delete" asp-route-id="@p.Id">Delete</a></td>
+        </tr>
+    }
+}
+<tr>
+        <td><a class="btn btn-success" asp-controller="Product" asp-action="Add">Addd</a></td>
+        <td><a class="btn btn-info" asp-controller="Product" asp-action="Sort">Sort</a></td>
+</tr>
+
+</table>
